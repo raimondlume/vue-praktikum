@@ -11,7 +11,7 @@
     name: "FoodCard",
     props: {
       title: String,
-      providers: [],
+      providers: Array,
       price: String
     }
   }
