@@ -20,4 +20,8 @@ Manual setup:
 History mode: No \
 CSS pre-processor: Sass/SCSS (with node-sass) \
 Linter: ESLint + Standard, lint on save \
-Config files: dedicated \
+Config files: dedicated 
+
+## Ülesanne
+
+https://api.fuud.ituk.ee/daily
